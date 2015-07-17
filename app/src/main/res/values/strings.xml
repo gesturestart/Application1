@@ -4,5 +4,7 @@
     <string name="app_name">Application1</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="EditText01_hint">设定密码输入错误次数</string>
+    <string name="EditText02_hint">设定锁屏幕的时间(毫秒)</string>
 
 </resources>
