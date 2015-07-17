@@ -7,7 +7,7 @@ import android.widget.Toast;
 
 /**
  * Created by 表情商店 on 2015/7/17.
- * 
+ *
  */
 public class MyReceiver extends DeviceAdminReceiver {
 
