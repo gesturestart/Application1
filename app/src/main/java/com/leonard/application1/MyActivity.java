@@ -22,6 +22,7 @@ public class MyActivity extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        setContentView(R.layout.mylayout);
         input = (EditText) findViewById(R.id.input);
         commit = (Button) findViewById(R.id.commit);
         result = (TextView) findViewById(R.id.result);
